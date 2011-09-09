@@ -1,3 +1,7 @@
 This is a basic client example for Sencha Touch and Parse
 
 http://www.parse.com
+
+written using CoffeeScript
+
+http://jashkenas.github.com/coffee-script/
